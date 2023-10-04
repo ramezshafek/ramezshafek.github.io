@@ -1,0 +1,75 @@
+/* Style the header with a dark background, white text, and padding */
+header {
+    background-color: #000; /* Black background color */
+    color: #FFF; /* White text color */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style the navigation links */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #FF8C42; /* Orange link color */
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #FFF; /* White link color on hover */
+}
+
+/* Style the main content area */
+main {
+    background-color: #FFF; /* White background color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Style section headers */
+h2 {
+    font-size: 28px;
+    margin-top: 20px;
+    color: #FF8C42; /* Orange text color */
+}
+
+/* Style paragraphs */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333; /* Dark gray text color */
+}
+
+/* Style unordered lists */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #333; /* Dark gray text color */
+}
+
+/* Style the aside section with additional information */
+aside {
+    background-color: #FF8C42; /* Orange background color */
+    color: #FFF; /* White text color */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Style the footer with a dark background and white text */
+footer {
+    background-color: #000; /* Black background color */
+    color: #FFF; /* White text color */
+    padding: 10px;
+    text-align: center;
+}
