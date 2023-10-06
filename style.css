@@ -8,6 +8,7 @@ header {
     background-image: url('pumpkin.jpeg'); /* Replace 'your-image-path.jpg' with the path to your image */
     background-repeat: no-repeat;
     background-position: left top; /* Positions the image in the top left corner */
+    background-size: 20px 20px; /* Adjust the size as needed */
 }
 
 /* Style the navigation links */
