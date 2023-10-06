@@ -5,6 +5,9 @@ header {
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+    background-image: url('your-image-path.jpg'); /* Replace 'your-image-path.jpg' with the path to your image */
+    background-repeat: no-repeat;
+    background-position: left top; /* Positions the image in the top left corner */
 }
 
 /* Style the navigation links */
