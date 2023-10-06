@@ -5,10 +5,10 @@ header {
     padding: 10px;
     border-radius: 10px;
     text-align: center;
-    background-image: url('pumpkin2.jpeg'); /* Replace 'your-image-path.jpg' with the path to your image */
+    background-image: url('pumpkin3.jpeg'); /* Replace 'your-image-path.jpg' with the path to your image */
     background-repeat: no-repeat;
     background-position: left top; /* Positions the image in the top left corner */
-    background-size: 10px 20px; /* Adjust the size as needed */
+    background-size: 50px 50px; /* Adjust the size as needed */
 }
 
 /* Style the navigation links */
